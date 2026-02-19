@@ -1,0 +1,19 @@
+[project]
+name = "house-price-regression"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.11"
+dependencies = [
+    "evidently>=0.7.20",
+    "fastapi>=0.129.0",
+    "great-expectations>=1.12.3",
+    "lightgbm>=4.6.0",
+    "matplotlib>=3.10.8",
+    "mlflow>=3.9.0",
+    "numpy>=2.4.2",
+    "pandas>=2.3.3",
+    "scikit-learn>=1.8.0",
+    "streamlit>=1.54.0",
+    "xgboost>=3.2.0",
+]
