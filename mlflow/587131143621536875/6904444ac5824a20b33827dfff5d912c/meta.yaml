@@ -1,0 +1,14 @@
+artifact_uri: file:///Users/larry/house-price-regression/mlflow/587131143621536875/6904444ac5824a20b33827dfff5d912c/artifacts
+end_time: 1771625719728
+entry_point_name: ''
+experiment_id: '587131143621536875'
+lifecycle_stage: active
+run_id: 6904444ac5824a20b33827dfff5d912c
+run_name: flawless-shrike-980
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1771625708305
+status: 3
+tags: []
+user_id: larry

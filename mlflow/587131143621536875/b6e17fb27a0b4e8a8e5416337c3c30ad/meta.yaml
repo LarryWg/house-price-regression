@@ -1,0 +1,14 @@
+artifact_uri: file:///Users/larry/house-price-regression/mlflow/587131143621536875/b6e17fb27a0b4e8a8e5416337c3c30ad/artifacts
+end_time: 1771625913570
+entry_point_name: ''
+experiment_id: '587131143621536875'
+lifecycle_stage: active
+run_id: b6e17fb27a0b4e8a8e5416337c3c30ad
+run_name: adorable-koi-862
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1771625894971
+status: 3
+tags: []
+user_id: larry

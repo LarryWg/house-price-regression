@@ -1,0 +1,14 @@
+artifact_uri: file:///Users/larry/house-price-regression/mlflow/587131143621536875/e765b21b1ce14308a409a91b395ded88/artifacts
+end_time: 1771625977856
+entry_point_name: ''
+experiment_id: '587131143621536875'
+lifecycle_stage: active
+run_id: e765b21b1ce14308a409a91b395ded88
+run_name: dazzling-tern-517
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1771625961009
+status: 3
+tags: []
+user_id: larry

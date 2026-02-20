@@ -1,0 +1,14 @@
+artifact_uri: file:///Users/larry/house-price-regression/mlflow/587131143621536875/890c1d67649045f3b79c7d4bd92b6f2c/artifacts
+end_time: 1771625640645
+entry_point_name: ''
+experiment_id: '587131143621536875'
+lifecycle_stage: active
+run_id: 890c1d67649045f3b79c7d4bd92b6f2c
+run_name: wise-asp-9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1771625624082
+status: 4
+tags: []
+user_id: larry

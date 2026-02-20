@@ -1,0 +1,14 @@
+artifact_uri: file:///Users/larry/house-price-regression/mlflow/587131143621536875/51616f16db6a40b58f8dad4e40b67663/artifacts
+end_time: 1771626106938
+entry_point_name: ''
+experiment_id: '587131143621536875'
+lifecycle_stage: active
+run_id: 51616f16db6a40b58f8dad4e40b67663
+run_name: bustling-newt-900
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1771626079521
+status: 3
+tags: []
+user_id: larry

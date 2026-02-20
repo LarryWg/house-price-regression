@@ -1,0 +1,14 @@
+artifact_uri: file:///Users/larry/house-price-regression/mlflow/587131143621536875/459c8b925bcd4edfbeae65c45534f239/artifacts
+end_time: 1771625731198
+entry_point_name: ''
+experiment_id: '587131143621536875'
+lifecycle_stage: active
+run_id: 459c8b925bcd4edfbeae65c45534f239
+run_name: dapper-moth-570
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1771625719745
+status: 3
+tags: []
+user_id: larry

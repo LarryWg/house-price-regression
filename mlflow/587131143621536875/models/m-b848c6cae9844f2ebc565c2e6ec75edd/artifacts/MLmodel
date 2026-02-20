@@ -1,0 +1,22 @@
+artifact_path: file:///Users/larry/house-price-regression/mlflow/587131143621536875/models/m-b848c6cae9844f2ebc565c2e6ec75edd/artifacts
+flavors:
+  python_function:
+    data: model.ubj
+    env:
+      conda: conda.yaml
+      virtualenv: python_env.yaml
+    loader_module: mlflow.xgboost
+    python_version: 3.11.14
+  xgboost:
+    code: null
+    data: model.ubj
+    model_class: xgboost.sklearn.XGBRegressor
+    model_format: ubj
+    xgb_version: 3.2.0
+mlflow_version: 3.9.0
+model_id: m-b848c6cae9844f2ebc565c2e6ec75edd
+model_size_bytes: 13031994
+model_uuid: m-b848c6cae9844f2ebc565c2e6ec75edd
+prompts: null
+run_id: 4b26833a25594781be1a76244663e591
+utc_time_created: '2026-02-20 22:31:02.577417'

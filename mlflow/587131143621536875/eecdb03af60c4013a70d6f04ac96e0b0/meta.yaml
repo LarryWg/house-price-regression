@@ -1,0 +1,14 @@
+artifact_uri: file:///Users/larry/house-price-regression/mlflow/587131143621536875/eecdb03af60c4013a70d6f04ac96e0b0/artifacts
+end_time: 1771625856677
+entry_point_name: ''
+experiment_id: '587131143621536875'
+lifecycle_stage: active
+run_id: eecdb03af60c4013a70d6f04ac96e0b0
+run_name: abundant-robin-516
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1771625834115
+status: 3
+tags: []
+user_id: larry

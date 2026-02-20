@@ -1,0 +1,14 @@
+artifact_uri: file:///Users/larry/house-price-regression/mlflow/587131143621536875/bc0561ec526d481e8e0f40b499c1baf4/artifacts
+end_time: 1771626076123
+entry_point_name: ''
+experiment_id: '587131143621536875'
+lifecycle_stage: active
+run_id: bc0561ec526d481e8e0f40b499c1baf4
+run_name: gifted-horse-196
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1771626057150
+status: 3
+tags: []
+user_id: larry

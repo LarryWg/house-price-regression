@@ -1,0 +1,14 @@
+artifact_uri: file:///Users/larry/house-price-regression/mlflow/587131143621536875/734aa87af2f24b3883c481578bc44f64/artifacts
+end_time: 1771625941207
+entry_point_name: ''
+experiment_id: '587131143621536875'
+lifecycle_stage: active
+run_id: 734aa87af2f24b3883c481578bc44f64
+run_name: adaptable-newt-418
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1771625932845
+status: 3
+tags: []
+user_id: larry

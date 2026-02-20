@@ -1,0 +1,6 @@
+artifact_location: file:///Users/larry/house-price-regression/mlflow/587131143621536875
+creation_time: 1771625430933
+experiment_id: '587131143621536875'
+last_update_time: 1771625430933
+lifecycle_stage: active
+name: house_price_regression_optuna

@@ -1,0 +1,14 @@
+artifact_uri: file:///Users/larry/house-price-regression/mlflow/587131143621536875/14d40e8daabc4f2b83d8b9c4098db073/artifacts
+end_time: 1771625681252
+entry_point_name: ''
+experiment_id: '587131143621536875'
+lifecycle_stage: active
+run_id: 14d40e8daabc4f2b83d8b9c4098db073
+run_name: caring-auk-431
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1771625675145
+status: 3
+tags: []
+user_id: larry

@@ -1,0 +1,10 @@
+artifact_location: file:///Users/larry/house-price-regression/mlflow/587131143621536875/models/m-b848c6cae9844f2ebc565c2e6ec75edd/artifacts
+creation_timestamp: 1771626662567
+experiment_id: '587131143621536875'
+last_updated_timestamp: 1771626666907
+model_id: m-b848c6cae9844f2ebc565c2e6ec75edd
+model_type: null
+name: model
+source_run_id: 4b26833a25594781be1a76244663e591
+status: 2
+status_message: null

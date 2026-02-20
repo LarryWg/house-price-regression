@@ -1,0 +1,14 @@
+artifact_uri: file:///Users/larry/house-price-regression/mlflow/587131143621536875/da14c2a7dfab48a78d9777726b4cf5fa/artifacts
+end_time: 1771625874503
+entry_point_name: ''
+experiment_id: '587131143621536875'
+lifecycle_stage: active
+run_id: da14c2a7dfab48a78d9777726b4cf5fa
+run_name: upset-grouse-720
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1771625856697
+status: 3
+tags: []
+user_id: larry
