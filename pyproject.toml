@@ -5,6 +5,7 @@ description = "Add your description here"
 readme = "README.md"
 requires-python = ">=3.11"
 dependencies = [
+    "category-encoders>=2.9.0",
     "evidently>=0.7.20",
     "fastapi>=0.129.0",
     "great-expectations>=1.12.3",
