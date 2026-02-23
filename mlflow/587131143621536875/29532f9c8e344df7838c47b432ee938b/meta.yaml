@@ -1,0 +1,14 @@
+artifact_uri: file:///Users/larry/house-price-regression/mlflow/587131143621536875/29532f9c8e344df7838c47b432ee938b/artifacts
+end_time: 1771862833933
+entry_point_name: ''
+experiment_id: '587131143621536875'
+lifecycle_stage: active
+run_id: 29532f9c8e344df7838c47b432ee938b
+run_name: caring-lamb-150
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1771862807617
+status: 4
+tags: []
+user_id: larry

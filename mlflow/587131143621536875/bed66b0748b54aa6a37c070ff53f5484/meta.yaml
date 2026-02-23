@@ -1,0 +1,14 @@
+artifact_uri: file:///Users/larry/house-price-regression/mlflow/587131143621536875/bed66b0748b54aa6a37c070ff53f5484/artifacts
+end_time: 1771862706406
+entry_point_name: ''
+experiment_id: '587131143621536875'
+lifecycle_stage: active
+run_id: bed66b0748b54aa6a37c070ff53f5484
+run_name: placid-hog-552
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1771862692378
+status: 3
+tags: []
+user_id: larry

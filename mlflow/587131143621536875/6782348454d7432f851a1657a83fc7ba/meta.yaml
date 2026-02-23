@@ -1,0 +1,14 @@
+artifact_uri: file:///Users/larry/house-price-regression/mlflow/587131143621536875/6782348454d7432f851a1657a83fc7ba/artifacts
+end_time: 1771863737996
+entry_point_name: ''
+experiment_id: '587131143621536875'
+lifecycle_stage: active
+run_id: 6782348454d7432f851a1657a83fc7ba
+run_name: loud-moth-205
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1771863672724
+status: 3
+tags: []
+user_id: larry

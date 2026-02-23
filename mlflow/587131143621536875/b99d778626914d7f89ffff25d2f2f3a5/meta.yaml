@@ -1,0 +1,14 @@
+artifact_uri: file:///Users/larry/house-price-regression/mlflow/587131143621536875/b99d778626914d7f89ffff25d2f2f3a5/artifacts
+end_time: 1771862936354
+entry_point_name: ''
+experiment_id: '587131143621536875'
+lifecycle_stage: active
+run_id: b99d778626914d7f89ffff25d2f2f3a5
+run_name: chill-hen-811
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1771862920660
+status: 3
+tags: []
+user_id: larry

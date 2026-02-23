@@ -1,0 +1,14 @@
+artifact_uri: file:///Users/larry/house-price-regression/mlflow/587131143621536875/ca12ab799d8949ad8f23458b4936ec32/artifacts
+end_time: 1771864078011
+entry_point_name: ''
+experiment_id: '587131143621536875'
+lifecycle_stage: active
+run_id: ca12ab799d8949ad8f23458b4936ec32
+run_name: burly-shrike-579
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1771863885534
+status: 3
+tags: []
+user_id: larry

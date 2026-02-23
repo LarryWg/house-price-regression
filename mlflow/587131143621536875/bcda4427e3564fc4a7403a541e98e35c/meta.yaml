@@ -1,0 +1,14 @@
+artifact_uri: file:///Users/larry/house-price-regression/mlflow/587131143621536875/bcda4427e3564fc4a7403a541e98e35c/artifacts
+end_time: 1771864202033
+entry_point_name: ''
+experiment_id: '587131143621536875'
+lifecycle_stage: active
+run_id: bcda4427e3564fc4a7403a541e98e35c
+run_name: sedate-hog-76
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1771864139876
+status: 3
+tags: []
+user_id: larry

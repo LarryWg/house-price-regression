@@ -1,0 +1,14 @@
+artifact_uri: file:///Users/larry/house-price-regression/mlflow/587131143621536875/bf3f627f529247ec93c79811fd09581d/artifacts
+end_time: 1771862578234
+entry_point_name: ''
+experiment_id: '587131143621536875'
+lifecycle_stage: active
+run_id: bf3f627f529247ec93c79811fd09581d
+run_name: overjoyed-fowl-137
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1771862550322
+status: 3
+tags: []
+user_id: larry

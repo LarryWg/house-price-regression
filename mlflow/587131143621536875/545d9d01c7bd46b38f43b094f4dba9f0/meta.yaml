@@ -1,0 +1,14 @@
+artifact_uri: file:///Users/larry/house-price-regression/mlflow/587131143621536875/545d9d01c7bd46b38f43b094f4dba9f0/artifacts
+end_time: 1771862118193
+entry_point_name: ''
+experiment_id: '587131143621536875'
+lifecycle_stage: active
+run_id: 545d9d01c7bd46b38f43b094f4dba9f0
+run_name: nosy-mare-269
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1771862100609
+status: 3
+tags: []
+user_id: larry

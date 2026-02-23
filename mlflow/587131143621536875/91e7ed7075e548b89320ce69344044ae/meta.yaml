@@ -1,0 +1,14 @@
+artifact_uri: file:///Users/larry/house-price-regression/mlflow/587131143621536875/91e7ed7075e548b89320ce69344044ae/artifacts
+end_time: 1771861671124
+entry_point_name: ''
+experiment_id: '587131143621536875'
+lifecycle_stage: active
+run_id: 91e7ed7075e548b89320ce69344044ae
+run_name: enchanting-mule-956
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1771861664604
+status: 3
+tags: []
+user_id: larry

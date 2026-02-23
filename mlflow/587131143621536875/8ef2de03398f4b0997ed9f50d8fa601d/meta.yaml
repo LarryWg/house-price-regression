@@ -1,0 +1,14 @@
+artifact_uri: file:///Users/larry/house-price-regression/mlflow/587131143621536875/8ef2de03398f4b0997ed9f50d8fa601d/artifacts
+end_time: 1771862983740
+entry_point_name: ''
+experiment_id: '587131143621536875'
+lifecycle_stage: active
+run_id: 8ef2de03398f4b0997ed9f50d8fa601d
+run_name: monumental-roo-277
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1771862963776
+status: 3
+tags: []
+user_id: larry

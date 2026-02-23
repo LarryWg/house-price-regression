@@ -1,0 +1,14 @@
+artifact_uri: file:///Users/larry/house-price-regression/mlflow/587131143621536875/c8f0c748d81942c792debe8d45eeb4f6/artifacts
+end_time: 1771863309375
+entry_point_name: ''
+experiment_id: '587131143621536875'
+lifecycle_stage: active
+run_id: c8f0c748d81942c792debe8d45eeb4f6
+run_name: bittersweet-cow-635
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1771863281186
+status: 3
+tags: []
+user_id: larry

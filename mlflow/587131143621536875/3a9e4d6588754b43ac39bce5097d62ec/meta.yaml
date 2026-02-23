@@ -1,0 +1,14 @@
+artifact_uri: file:///Users/larry/house-price-regression/mlflow/587131143621536875/3a9e4d6588754b43ac39bce5097d62ec/artifacts
+end_time: 1771862625333
+entry_point_name: ''
+experiment_id: '587131143621536875'
+lifecycle_stage: active
+run_id: 3a9e4d6588754b43ac39bce5097d62ec
+run_name: fearless-bear-370
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1771862593759
+status: 3
+tags: []
+user_id: larry

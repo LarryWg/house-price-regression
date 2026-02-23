@@ -1,0 +1,14 @@
+artifact_uri: file:///Users/larry/house-price-regression/mlflow/587131143621536875/135264c14c86499ba4c20d4373bfb3fc/artifacts
+end_time: 1771863097847
+entry_point_name: ''
+experiment_id: '587131143621536875'
+lifecycle_stage: active
+run_id: 135264c14c86499ba4c20d4373bfb3fc
+run_name: tasteful-chimp-305
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1771863087746
+status: 3
+tags: []
+user_id: larry

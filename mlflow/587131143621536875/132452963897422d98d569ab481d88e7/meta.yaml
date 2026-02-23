@@ -1,0 +1,14 @@
+artifact_uri: file:///Users/larry/house-price-regression/mlflow/587131143621536875/132452963897422d98d569ab481d88e7/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '587131143621536875'
+lifecycle_stage: active
+run_id: 132452963897422d98d569ab481d88e7
+run_name: gregarious-lynx-771
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1771862858496
+status: 1
+tags: []
+user_id: larry

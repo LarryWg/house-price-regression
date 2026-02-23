@@ -1,0 +1,14 @@
+artifact_uri: file:///Users/larry/house-price-regression/mlflow/587131143621536875/20bd6314b19548ce830e9b2815c3291b/artifacts
+end_time: 1771863281150
+entry_point_name: ''
+experiment_id: '587131143621536875'
+lifecycle_stage: active
+run_id: 20bd6314b19548ce830e9b2815c3291b
+run_name: vaunted-gull-29
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1771863240389
+status: 3
+tags: []
+user_id: larry

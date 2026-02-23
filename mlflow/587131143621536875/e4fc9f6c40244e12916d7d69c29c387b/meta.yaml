@@ -1,0 +1,14 @@
+artifact_uri: file:///Users/larry/house-price-regression/mlflow/587131143621536875/e4fc9f6c40244e12916d7d69c29c387b/artifacts
+end_time: 1771862170271
+entry_point_name: ''
+experiment_id: '587131143621536875'
+lifecycle_stage: active
+run_id: e4fc9f6c40244e12916d7d69c29c387b
+run_name: skillful-bird-820
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1771862131783
+status: 3
+tags: []
+user_id: larry

@@ -1,0 +1,14 @@
+artifact_uri: file:///Users/larry/house-price-regression/mlflow/587131143621536875/dd44b5100f024e7eb6c5b22ce75b6ba2/artifacts
+end_time: 1771861755207
+entry_point_name: ''
+experiment_id: '587131143621536875'
+lifecycle_stage: active
+run_id: dd44b5100f024e7eb6c5b22ce75b6ba2
+run_name: gifted-squirrel-859
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1771861715477
+status: 3
+tags: []
+user_id: larry

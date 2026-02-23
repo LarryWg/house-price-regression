@@ -1,0 +1,14 @@
+artifact_uri: file:///Users/larry/house-price-regression/mlflow/587131143621536875/ce3aa799056b4fabb575126274d3dd9e/artifacts
+end_time: 1771863803442
+entry_point_name: ''
+experiment_id: '587131143621536875'
+lifecycle_stage: active
+run_id: ce3aa799056b4fabb575126274d3dd9e
+run_name: rebellious-fish-907
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1771863772010
+status: 3
+tags: []
+user_id: larry

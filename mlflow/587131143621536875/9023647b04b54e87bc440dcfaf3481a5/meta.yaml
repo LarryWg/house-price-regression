@@ -1,0 +1,14 @@
+artifact_uri: file:///Users/larry/house-price-regression/mlflow/587131143621536875/9023647b04b54e87bc440dcfaf3481a5/artifacts
+end_time: 1771862078827
+entry_point_name: ''
+experiment_id: '587131143621536875'
+lifecycle_stage: active
+run_id: 9023647b04b54e87bc440dcfaf3481a5
+run_name: whimsical-sponge-796
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1771862052279
+status: 3
+tags: []
+user_id: larry

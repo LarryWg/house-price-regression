@@ -1,0 +1,14 @@
+artifact_uri: file:///Users/larry/house-price-regression/mlflow/587131143621536875/f6890c3ec26242b1be857af688da2b1f/artifacts
+end_time: 1771863240336
+entry_point_name: ''
+experiment_id: '587131143621536875'
+lifecycle_stage: active
+run_id: f6890c3ec26242b1be857af688da2b1f
+run_name: gaudy-hawk-792
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1771863176190
+status: 3
+tags: []
+user_id: larry

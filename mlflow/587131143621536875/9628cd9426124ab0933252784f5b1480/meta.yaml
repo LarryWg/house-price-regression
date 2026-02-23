@@ -1,0 +1,14 @@
+artifact_uri: file:///Users/larry/house-price-regression/mlflow/587131143621536875/9628cd9426124ab0933252784f5b1480/artifacts
+end_time: 1771862807580
+entry_point_name: ''
+experiment_id: '587131143621536875'
+lifecycle_stage: active
+run_id: 9628cd9426124ab0933252784f5b1480
+run_name: vaunted-stork-534
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1771862778482
+status: 3
+tags: []
+user_id: larry
