@@ -31,7 +31,7 @@ def normalize_city_names(s: str) -> str:
     if pd.isna(s):
         return s
     
-    s = str(s).split().strip()
+    s = str(s).strip()
 
     s = re.sub(r"[–—-]", "-", s)          # unify dashes
     s = re.sub(r"\s+", " ", s)   
