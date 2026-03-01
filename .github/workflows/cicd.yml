@@ -52,7 +52,7 @@ jobs:
         run: |
           aws ecs update-service \
             --cluster housing-api-cluster \
-            --service housing-api-service \
+            --service housing-api-task-service-j22lln6ve \
             --force-new-deployment
 
       # Deploy to ECS - Streamlit
@@ -60,5 +60,5 @@ jobs:
         run: |
           aws ecs update-service \
             --cluster housing-api-cluster \
-            --service housing-streamlit-service \
+            --service housing-streamlit-service-ihiddk7c \
             --force-new-deployment
