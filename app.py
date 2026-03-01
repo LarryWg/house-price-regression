@@ -34,7 +34,7 @@ HOLDOUT_CLEAN_PATH = Path(load_data_from_s3("processed/holdout_cleaned.csv", "da
 @st.cache_data
 def load_holdout_data():
     fe = pd.read_csv(HOLDOUT_ENG_PATH)
-    clean = pd.read_csv(HOLDOUT_CLEAN_PATH)
+    clean = pd.read_csv(HOLDOUT_CLEAN_PATH, parse_dates=["date"])[["date", "city_full"]]
 
     if len(fe) != len(clean):
         st.warning("Holdout datasets have different number of rows. Check data integrity.")
