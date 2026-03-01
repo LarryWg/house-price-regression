@@ -19,8 +19,9 @@ def load_data_from_s3(key, local_path):
     local_path = Path(local_path)
     if not local_path.exists():
         os.makedirs(local_path.parent, exist_ok=True)
+        st.info(f"📥 Downloaded {key} from S3 to {local_path}")
         s3.download_file(S3_BUCKET, key, str(local_path))
-        print(f"📥 Downloaded {key} from S3 to {local_path}")
+        
 
     return str(local_path)
 
