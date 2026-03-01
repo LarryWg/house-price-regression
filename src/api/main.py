@@ -25,14 +25,13 @@ def load_data_from_s3(key, local_path):
 
 
 MODEL_PATH = Path(load_data_from_s3("models/xgb_best_model.pkl", "models/xgb_best_model.pkl"))
-TRAIN_FE_PATH = Path(load_data_from_s3("data/processed/train_engineered.csv", "data/processed/train_engineered.csv"))
+TRAIN_FE_PATH = Path(load_data_from_s3("processed/train_engineered.csv", "data/processed/train_engineered.csv"))
 
 if TRAIN_FE_PATH.exists():
     _train_cols = pd.read_csv(TRAIN_FE_PATH, nrows=1)
     TRAIN_FEATURE_COLUMNS = [c for c in _train_cols.columns if c != "price"]  # excluding price column
-else:    TRAIN_FEATURE_COLUMNS = None
-
-
+else:    
+    TRAIN_FEATURE_COLUMNS = None
 
 
 ##### APP #####
@@ -90,9 +89,7 @@ def latest_predictions(limit: int = 5):
     latest_file = files[-1]
     df = pd.read_csv(latest_file)
     return {
-        "files": latest_file.name,
+        "file": latest_file.name,
         "rows": int(len(df)),
-        "predictions": df.head(limit).to_dict(orient="records")
+        "preview": df.head(limit).to_dict(orient="records")
     }
-if __name__ == "__main__":
-    main()
