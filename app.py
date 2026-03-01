@@ -43,7 +43,7 @@ def load_holdout_data():
         clean = clean.iloc[:min_len].copy()
     
     display = pd.DataFrame(index = fe.index)
-    display["date"] = clean["date"]
+    display["date"] = pd.to_datetime(clean["date"])
     display["region"] = clean["city_full"]
     display["year"] = display["date"].dt.year
     display["month"] = display["date"].dt.month
